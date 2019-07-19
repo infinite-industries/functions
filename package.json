@@ -6,7 +6,9 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "slack-notify": "^0.1.7"
+    "moment-timezone": "^0.5.26",
+    "slack-notify": "^0.1.7",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {}
 }
